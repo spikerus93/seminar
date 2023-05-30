@@ -53,3 +53,5 @@ git checkout master. (junior)
 > Команда git commit -am - добавление файлов в отслеживание и создание коммита (заменяет две операнты: -a -m)
 
 > *Команда git branch [branch_name]* - создать ветку под названием branch_name
+
+git checkout <branch_name> – переход к другой ветке
