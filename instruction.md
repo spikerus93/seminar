@@ -56,6 +56,7 @@ git checkout master. (junior)
 
 git checkout <branch_name> – переход к другой ветке
 > **Команда git branch -d [branch_name]** - удалить ветку под названием branch_name
+> Выполнена первая отправка в удаленный репозиторий
 
 # Работы с удаленными репозиториями.
 
